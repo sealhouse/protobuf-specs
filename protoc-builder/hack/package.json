@@ -6,6 +6,6 @@
         "@bufbuild/protobuf": "2.16.0",
         "grpc-tools": "1.13.1",
         "grpc-web": "2.1.1",
-        "ts-proto": "2.17.0"
+        "ts-proto": "2.18.0"
     }
 }
